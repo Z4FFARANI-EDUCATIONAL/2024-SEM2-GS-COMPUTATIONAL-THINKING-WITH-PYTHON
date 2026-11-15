@@ -28,6 +28,7 @@ O programa é composto por três sistemas principais:
 
 | Entregável | Onde |
 |---|---|
+| Vídeo explicativo | [youtu.be/5BdzgsT5DlY](https://youtu.be/5BdzgsT5DlY) |
 | Programa principal | [`main.py`](main.py) |
 
 ## Como executar
