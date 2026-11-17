@@ -15,6 +15,10 @@ Global Solution 2024.2 · Engenharia de Software · FIAP
 
 O **Econy** é uma empresa fictícia criada com o objetivo de contribuir para a sustentabilidade e a redução das emissões de CO2, integrando o comércio de créditos de carbono e certificações de auditoria.
 
+### Projeto principal
+
+[Econy](https://github.com/Z4ffarani/Econy): repositório principal do projeto.
+
 ## Esta entrega: Computational Thinking with Python
 
 Plataforma que integra o comércio de créditos de carbono e certificações de auditoria por meio de smart contracts (contratos inteligentes) e blockchains (tecnologia de registro distribuído e descentralizado) que utilizam o algoritmo de consenso PoS (Proof-of-Stake).
